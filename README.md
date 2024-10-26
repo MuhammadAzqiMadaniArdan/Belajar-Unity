@@ -5,7 +5,7 @@ Sebuah Repository Pembelajaran Dasar Penggunaan Unity
 
 <h1>0.Visibility </h1>
 
-<img src"https://github.com/user-attachments/assets/3d815f9b-078e-4fae-8bc5-60878c4b1247"></img>
+<img src="https://github.com/user-attachments/assets/3d815f9b-078e-4fae-8bc5-60878c4b1247"></img>
 
 	Visibility adalah dasar object oriented Programming untuk melakukan visibilitas akses (public,private)
 
@@ -129,7 +129,7 @@ Sebuah Repository Pembelajaran Dasar Penggunaan Unity
 
 <h1>3.Input</h1>
 
-<img src"https://github.com/user-attachments/assets/2fc6ee8c-f274-40b9-b41b-2cbcb7c36e43"> </img>
+<img src="https://github.com/user-attachments/assets/2fc6ee8c-f274-40b9-b41b-2cbcb7c36e43"> </img>
 
 	Unity memiliki input yang sudah disediakan agar kita bisa memakainya
 
