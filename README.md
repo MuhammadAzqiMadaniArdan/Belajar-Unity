@@ -1,7 +1,7 @@
 # Belajar-Unity
 Sebuah Repository Pembelajaran Dasar Penggunaan Unity
 <br>
-<h3>❗ Catatan Dibawah merupakan rangkuman hasil pembelajaran yang saya pelajari jika ada kekurangan dalam isi materi atau salah mohon maaf dan dikoreksi ✍️ </h3>
+<h5>❗ Catatan Dibawah merupakan rangkuman hasil pembelajaran yang saya pelajari jika ada kekurangan dalam isi materi atau salah mohon maaf dan dikoreksi ✍️ </h5>
 
 <h1>0.Visibility </h1>
 
