@@ -9,6 +9,9 @@ Sebuah Repository Pembelajaran Dasar Penggunaan Unity
 
 <h1>1.Void</h1>
 
+<img src="https://github.com/user-attachments/assets/2330c5af-2d94-440e-a83f-90b79c15af4a"></img>
+
+
 	void sama seperti menggunakan function tapi tidak membutuhkan return value dan dapat menggunakan visibility
 	
 	void start
